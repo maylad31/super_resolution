@@ -1,0 +1,1 @@
+pyinstaller --paths ~/e2/lib/python3.9/site-packages --name super_resolution test1.py
